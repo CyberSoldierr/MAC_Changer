@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CyberSoldierr
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Java, Mobile Programming, MySQL, Python and Hacking Fundamentals
-- 📫 How to reach me: yusufbilgin1905@gmail.com.
+
 
 <!---
-CyberSoldierr/CyberSoldierr is a ✨ special ✨ repository 
+Atil SAMANCIOGLU derslerinden yardım alarak
 --->
+![ss](https://user-images.githubusercontent.com/93447964/160239871-a6f3ec75-848f-4e90-9296-4e9902a00fd4.png)
